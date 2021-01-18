@@ -11,7 +11,7 @@ namespace SNAPTest
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Disclaimer();
         }
 
         protected override void OnStart()
